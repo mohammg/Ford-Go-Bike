@@ -4,14 +4,15 @@
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+The data consists of information regarding 1851950 trips Calc Duration seconds From date months,day,period of day and user type
+Dataset url :https://www.kaggle.com/nikitajain16/ford-go-bike-dataset-for-year-2018
 
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+in the exploration , in begin clean data drom un unnessasry column and create some culmn from start date to get month ,weekday and period of day to more result, histogram of durationtime Found after log values must furqancy time is between 600 sec and 650 sec that time of travel in most,thare big outlier rang,afternoon time heighr IQR and heighr ,Min Dueation seconds is same of all period time of day,tribs in months from june to october hase high trebs count about other month,During the day, morning and noon times are close in trips rates and decrease in night flights
 
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+In a presentation, I saw a relationship between trip time and type of user where I saw that the customer prefers long trips over the subscriber, and for most users afternoon trips are longer than morning or night trips
